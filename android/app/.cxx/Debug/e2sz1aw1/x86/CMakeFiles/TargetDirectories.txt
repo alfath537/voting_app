@@ -1,0 +1,2 @@
+C:/flutter_project/voting_app/android/app/.cxx/Debug/e2sz1aw1/x86/CMakeFiles/edit_cache.dir
+C:/flutter_project/voting_app/android/app/.cxx/Debug/e2sz1aw1/x86/CMakeFiles/rebuild_cache.dir
